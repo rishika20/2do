@@ -1,0 +1,109 @@
+body{
+  background-color: rgba(66, 166, 206, 0.945);
+  color: white;
+
+
+}
+.comp{
+  text-decoration: line-through;
+
+}
+.head
+{ margin-top: 1cm;
+   margin-bottom: 1cm;
+  font-size: 1.5cm;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  
+}
+.todo-m
+{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.q
+{
+  display: flex;
+  margin: 0.2cm;
+  min-height: 0.7cm;
+}
+.n
+{
+  min-width: 5cm;
+  padding: 0.3rem;
+  color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  
+}
+.list
+{
+  list-style: none;
+  min-width: 30% ;
+}
+
+.ppp
+{
+  background-color: rgba(13, 199, 13, 0.74);
+  color: white;
+  border: 2px solid rgba(13, 199, 13, 0.74);
+  cursor: pointer;
+}
+.ppp:hover{
+  background-color: white;
+  color: rgba(13, 199, 13, 0.74);
+  
+}
+.pu:hover{
+  background-color: white;
+  color: red;
+}
+.pu{cursor: pointer;
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+}
+.inp
+{
+  border: none;
+ 
+  font-size: 0.5cm;
+  color:rgba(66, 166, 206, 0.945) ;
+  box-sizing: border-box;
+outline: none;
+  
+}
+
+.todo
+{
+ 
+  border: none;
+  color:rgba(66, 166, 206, 0.945) ;
+ margin-left: 0.2cm;
+  background: white;
+  font-size: 1.5rem;
+  outline: none;
+
+ 
+ 
+
+}
+
+.But
+{ cursor: pointer;
+  color:rgba(66, 166, 206, 0.945) ;border: none;
+}
+.But:hover{
+  color: white;
+  background-color: rgba(66, 166, 206, 0.945);
+}
+.form
+{ 
+  display: flex;
+ justify-content: center;
+  text-align: center;
+  
+}
+
+
